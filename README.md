@@ -1,2 +1,4 @@
 # JAVA_single_word_alert
-JAVAAVA打字機特效
+JAVA打字機特效
+
+![image](https://github.com/b3o3m303/JAVA_single_word_alert/blob/master/fig/1.gif)
